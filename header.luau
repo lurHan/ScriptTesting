@@ -9,7 +9,7 @@ local games = {
 }
 
 local list_games = {
-    [130589053671802] = "https://raw.githubusercontent.com/lurHan/ScriptTesting/refs/heads/main/MountSyududu.lua",
+    [130589053671802] = "https://raw.githubusercontent.com/RizzHUB01/ScriptTesting/refs/heads/main/MountSyududu.lua",
 }
 
 local gameID = games.GameId
